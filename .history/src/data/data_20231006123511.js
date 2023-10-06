@@ -33,8 +33,8 @@ import youtube from "../assets/youtube.svg";
 import messenger from "../assets/messenger.svg";
 
 const heroapi = {
-  title: "World Under Your Foot",
-  subtitle: "Me Us Your Companion",
+  title: "World nder your foot",
+  subtitle: "Adapt 2.0 Sneakers",
   img: heroimg,
   btntext: "Explore Product",
   videos: [

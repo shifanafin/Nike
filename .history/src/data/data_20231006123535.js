@@ -34,7 +34,7 @@ import messenger from "../assets/messenger.svg";
 
 const heroapi = {
   title: "World Under Your Foot",
-  subtitle: "Me Us Your Companion",
+  subtitle: "Me Us Your Comapnion",
   img: heroimg,
   btntext: "Explore Product",
   videos: [
